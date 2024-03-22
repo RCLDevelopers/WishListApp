@@ -5,7 +5,6 @@
   Develop a Wish List application.
 </p>
 
-![demo](https://raw.githubusercontent.com/Abhijith14/VB.NET-PROJECTS/master/readme_assets/wish.png)
 
 <br>
 <br>
@@ -39,7 +38,7 @@ Run the setup.exe application
 
 ### Authors
 
-* **Abhijith Udayakumar** - *Design & Development* - [Zangtics Digital](https://github.com/RCLDevelopers)
+* **Zangtics Digital** - *Design & Development* - [Zangtics Digital](https://github.com/RCLDevelopers)
 
 <br>
 <br>
